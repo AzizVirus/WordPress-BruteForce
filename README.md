@@ -1,4 +1,19 @@
 # WordPress-BruteForce
+
+
+
+kali linux downloading and using method:
+
+
+
+open a terminal
+
+
+
+put:
+
+
+
 sudo git clone https://github.com/AzizVirus/WordPress-BruteForce.git
 
 
