@@ -1,5 +1,5 @@
 # WordPress-BruteForce
-git clone https://github.com/AzizVirus/WordPress-BruteForce.git
+sudo git clone https://github.com/AzizVirus/WordPress-BruteForce.git
 
 
 
@@ -9,7 +9,7 @@ cd WordPress-BruteForce
 
 
 
-python wp\ brute
+sudo python wp\ brute
 
 
 
@@ -28,4 +28,4 @@ WordPress Cracker@:  Enter The PasswordList File Name  ==> here you create a fil
 
 
 
-
+tool powered by WPscan
